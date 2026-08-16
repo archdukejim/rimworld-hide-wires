@@ -1,0 +1,47 @@
+[h1]Hide Wires[/h1]
+
+Hides the thin power [b]connection stubs[/b] RimWorld draws from every powered building to the nearest conduit, for a cleaner base view. Conduits themselves are never touched. Toggle from the bottom-right overlay row or a rebindable hotkey, and the full wiring always comes back while the power overlay is up.
+
+[i]Keywords: hide wires, power wires, connection stub, cleaner base, clutter, overlay toggle, conduit, power grid, quality of life, QoL, visual, rendering.[/i]
+
+[hr][/hr]
+
+[img]https://i.imgur.com/bGewNHR.png[/img]
+
+[hr][/hr]
+
+[h1]What it does[/h1]
+
+RimWorld draws a short connector stub from every powered building to the power grid. One or two look tidy. Three hundred of them turn a mature base into a cobweb. Hide Wires switches those stubs off so you can see your rooms, your flooring and your layout again.
+
+[list]
+[*][b]Only the connection stubs.[/b] Power conduits and their linked wire graphics render in full, all the time. This is not a conduit hider.
+[*][b]Full wiring while you plan.[/b] Select a conduit or open the Power tab in the architect menu and the power overlay draws the complete network as normal, regardless of your toggle. You never lose the information you actually need.
+[*][b]Two ways to toggle.[/b] A button in the bottom-right overlay row, next to the vanilla show-zones and show-roof controls, plus a fully rebindable hotkey.
+[*][b]Off by default.[/b] Install it and nothing changes until you press the button, so it never surprises you.
+[/list]
+
+[h1]The hotkey[/h1]
+
+Unbound out of the box so it cannot fight an existing keybind. Assign it under:
+
+[b]Options → Keyboard configuration → in-game global → "toggle power connection wires"[/b]
+
+The button and the hotkey drive the same setting and stay in sync.
+
+[h1]Compatibility[/h1]
+
+[list]
+[*][b]RimWorld 1.5 and 1.6.[/b]
+[*][b]Requires Harmony.[/b]
+[*][b]Safe on existing saves, both directions.[/b] Hide Wires adds no save data of its own — it is a pure rendering change. Add it to a five-year-old colony or remove it mid-playthrough and the wires simply come back.
+[*][b]Mid-save safe.[/b] No new defs, no new components on your things, nothing to clean up.
+[/list]
+
+It patches only the building-to-grid stub print. Mods that add their own power buildings are unaffected in any way beyond their stubs also being hidden, which is the point. Mods that replace the power overlay itself are untouched.
+
+[h1]Source[/h1]
+
+Source and issue tracker: [url=https://github.com/archdukejim/rimworld-hide-wires]github.com/archdukejim/rimworld-hide-wires[/url]
+
+Licensed MIT. Bug reports welcome — please include your log if something looks wrong.

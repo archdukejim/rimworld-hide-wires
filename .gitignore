@@ -1,0 +1,12 @@
+# Build output
+Source/bin/
+Source/obj/
+
+# Compiled mod assembly — rebuild with `dotnet build Source/HideWires.csproj`.
+# Remove this line if you prefer to ship the DLL in the repo.
+Assemblies/
+
+# IDE
+.vs/
+.idea/
+*.user

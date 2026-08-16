@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!--
+    Rebindable hotkey for the wire toggle.
+
+    category "Game" is the vanilla KeyBindingCategoryDef for in-game global controls
+    (label "in-game global") - the same bucket the other overlay toggles live in.
+
+    Both default key codes are None, so we do not stomp on a vanilla binding out of the
+    box. The player assigns it in Options > Keyboard configuration.
+  -->
+  <KeyBindingDef>
+    <defName>HideWires_ToggleWires</defName>
+    <label>toggle power connection wires</label>
+    <category>Game</category>
+    <defaultKeyCodeA>None</defaultKeyCodeA>
+    <defaultKeyCodeB>None</defaultKeyCodeB>
+  </KeyBindingDef>
+
+</Defs>

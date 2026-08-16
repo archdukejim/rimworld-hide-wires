@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HideWires.ToggleTooltip>Hide power connection wires.\n\nHides the thin connector stubs drawn between powered buildings and the power grid. Conduits are not affected.\n\nWires are always shown while the power overlay is active.</HideWires.ToggleTooltip>
+
+</LanguageData>
