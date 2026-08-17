@@ -6,6 +6,9 @@ Hides the thin power [b]connection stubs[/b] RimWorld draws from every powered b
 
 [hr][/hr]
 
+PLACEHOLDER_BEFORE_AFTER
+[i]^ replace with [img]<url>[/img] for hidewires-info-before-after.png[/i]
+
 [img]https://i.imgur.com/bGewNHR.png[/img]
 
 [hr][/hr]
@@ -20,6 +23,12 @@ RimWorld draws a short connector stub from every powered building to the power g
 [*][b]Two ways to toggle.[/b] A button in the bottom-right overlay row, next to the vanilla show-zones and show-roof controls, plus a fully rebindable hotkey.
 [*][b]Off by default.[/b] Install it and nothing changes until you press the button, so it never surprises you.
 [/list]
+
+PLACEHOLDER_ANATOMY
+[i]^ replace with [img]<url>[/img] for hidewires-info-anatomy.png[/i]
+
+PLACEHOLDER_STATES
+[i]^ replace with [img]<url>[/img] for hidewires-info-states.png[/i]
 
 [h1]The hotkey[/h1]
 
